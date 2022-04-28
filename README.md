@@ -6,6 +6,8 @@ https://github.com/dappuniversity/web3_examples
 https://sotoedu.herokuapp.com/
 
 
+<My Ethereum Wallet 가상 전자지갑 만들기>
+
 ##  getBalance 
     let getbalance = await web3.eth.getBalance(fromaddress);
     let balance = web3.utils.fromWei(getbalance, "ether")
